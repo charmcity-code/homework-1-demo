@@ -10,3 +10,12 @@ h1 {
   text-align: center;
   background-color: orange;
 }
+
+.purple-words {
+  color: purple;
+}
+
+#lincoln-rocks {
+  background-color: blue;
+  color: honeydew;
+}
